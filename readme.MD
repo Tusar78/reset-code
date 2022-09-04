@@ -1,1 +1,1 @@
-# Reuseable Reset code.
+# Reset code.
